@@ -1,4 +1,4 @@
-if it is of any help here is a list of my active processes from my last try
+
 Image Name                     PID Session Name        Session#    Mem Usage  
 ========================= ======== ================ =========== ============  
 System Idle Process              0 Services                   0          8 K  
